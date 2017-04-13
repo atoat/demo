@@ -1,0 +1,8 @@
+{
+    "name": "atoat/demo",
+    "description": "It's a test demo for composer",
+    "type": "project",
+    "license": "Apache2.0 License",
+    "minimum-stability": "dev",
+    "require": {}
+}
